@@ -4,6 +4,10 @@
   "description": "Evil-eyed yawny girl™",
   "main": "lib/bot.js",
   "author": "dev-lurker",
+  "scripts": {
+    "bot": "node ./lib/bot.js",
+    "start": "node ./lib/bot.js"
+  },
   "dependencies": {
     "winston": "^2.4.0"
   }
