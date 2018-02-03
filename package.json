@@ -1,0 +1,10 @@
+{
+  "name": "shiho",
+  "version": "1.0.0",
+  "description": "Evil-eyed yawny girl™",
+  "main": "lib/bot.js",
+  "author": "dev-lurker",
+  "dependencies": {
+    "winston": "^2.4.0"
+  }
+}
